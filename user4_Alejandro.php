@@ -27,7 +27,8 @@
 
 
             <input type="button" value="Aceptar">
-            <input type="button" value="Cancelar">
+            <!-- Cambio3: elbotón atrás ahora redirige a la pantalla principal -->
+            <a href="user1_Sergio_P1.php"><input type="button" value="Atrás"></a>
 
         </form>
 
