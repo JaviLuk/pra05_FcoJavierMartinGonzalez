@@ -32,7 +32,8 @@ if (!empty($_POST['usuario'])){
         <p><input type="submit" value="Acceder"></p>
     </form>
     <form name="back" method="post" action="">
-        <input type="submit" value="Atrás">
+        <!-- Cambio1 en el botón de atrás para que redirija a la página principal -->
+        <a href="user1_Sergio_P1.php"><input type="button" value="Atrás"></a>
     </form>
 
 </body>
