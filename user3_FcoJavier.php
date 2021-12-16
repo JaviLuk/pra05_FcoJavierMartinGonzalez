@@ -40,7 +40,7 @@
 
 		</form>
 			<!-- Enlace para que nos dirija al  registro de aulas-->
-	<a href="user4_Alejandro.php">Formulario de registro de aulas.</a>
+	<a href="user4_Alejandro.php"><input type="button" value="Registro de aulas"></a>
 
 	</body>
 </html>
